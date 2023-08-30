@@ -1,1 +1,1 @@
-Developer for over 22 years focusing on web-based systems and applications, hybrid applications, hardware developer (IoT), dApps and NFTs developer with a focus on Cardano blockchain.
+
