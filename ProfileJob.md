@@ -70,8 +70,8 @@ O projeto permanece online como demonstração funcional.
 [gerciljunio/pest-boilerplate-api-test](https://github.com/gerciljunio/pest-boilerplate-api-test)
 
 - Libs em JavaScript utilizadas nas blockchains Cardano, Ethereum e outras. Ambas foram descontinuadas, pois não trabalho mais com blockchains.   
- **[cardano-decodes-wallet-api](https://github.com/gerciljunio/cardano-decodes-wallet-api)**   
- **[multichain-utils](https://github.com/gerciljunio/multichain-utils)**
+ [cardano-decodes-wallet-api](https://github.com/gerciljunio/cardano-decodes-wallet-api)   
+ [multichain-utils](https://github.com/gerciljunio/multichain-utils)
 
 - Ambientes de teste e integração com Cypress, Playwright e RestAssured.
 
