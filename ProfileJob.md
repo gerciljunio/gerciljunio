@@ -1,6 +1,8 @@
 # Gercil Junio
 Desenvolvedor Backend — PHP | Laravel | Octane | Hyperf | APIs | Automação   
-📍 Brasil • 💼 Remoto • 🌐 [https://github.com/gerciljunio](https://github.com/gerciljunio) • 🌐 [linkedin.com/in/gercil](https://linkedin.com/in/gercil)
+📍 Uberlândia-MG • 💼 Remoto   
+[https://github.com/gerciljunio](https://github.com/gerciljunio) • [linkedin.com/in/gercil](https://linkedin.com/in/gercil)
+
 
 ## Resumo Profissional
 Desenvolvedor backend com mais de 20 anos de experiência prática.
@@ -61,8 +63,7 @@ Aplicativo web e mobile para gestão de clientes, talhões, safras e registros d
 
 O projeto permanece online como demonstração funcional.
 
-🔗 [grgro.com.br](https://gragro.com.br)  
-🔗 [Documentação completa no GitHub](https://github.com/gerciljunio/gragro-documentation)
+[grgro.com.br](https://gragro.com.br) • [Documentação completa no GitHub](https://github.com/gerciljunio/gragro-documentation)
 
 ### Outros projetos:
 - Boilerplate de automação de testes e APIs externas em PHP e Pest.   
@@ -75,6 +76,6 @@ O projeto permanece online como demonstração funcional.
 - Ambientes de teste e integração com Cypress, Playwright e RestAssured.
 
 ## Contato
-📧 [gerciljunio@gmail.com](mailto:gerciljunio@gmail.com)   
-🔗 [github.com/gerciljunio](https://github.com/gerciljunio)   
-🔗 [linkedin.com/in/gercil](https://linkedin.com/in/gercil)
+[gerciljunio@gmail.com](mailto:gerciljunio@gmail.com)   
+[github.com/gerciljunio](https://github.com/gerciljunio)   
+[linkedin.com/in/gercil](https://linkedin.com/in/gercil)
