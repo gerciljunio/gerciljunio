@@ -24,7 +24,8 @@ Os repositórios públicos que você encontra aqui servem como **demonstrações
 ## 🚀 Projetos Reais
 
 - **GR.Agro** – Plataforma completa para agrônomos, com APIs, automações e relatórios climáticos  
-[gragro.com.br](https://gragro.com.br)
+[gragro.com.br](https://gragro.com.br)   
+[gerciljunio/gragro-documentation](https://github.com/gerciljunio/gragro-documentation)
 
 - **Boilerplate** –  de automação de testes e APIs externas em PHP e Pest.   
 [gerciljunio/pest-boilerplate-api-test](https://github.com/gerciljunio/pest-boilerplate-api-test)
