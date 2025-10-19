@@ -1,6 +1,6 @@
 # Gercil Junio
-Desenvolvedor Backend — PHP | Laravel | Octane | Hyperf | APIs de Alta Performance   
-📍 Brasil • 💼 Remoto
+Desenvolvedor Backend — PHP | Laravel | Octane | Hyperf | APIs | Automação   
+📍 Brasil • 💼 Remoto • 🌐 [https://github.com/gerciljunio](https://github.com/gerciljunio) • 🌐 [linkedin.com/in/gercil](https://linkedin.com/in/gercil)
 
 ## Resumo Profissional
 Desenvolvedor backend com mais de 20 anos de experiência prática.
@@ -21,8 +21,8 @@ Acredita em software simples, confiável e bem construído — com foco em quali
 - MySQL, PostgreSQL, Redis, Eloquent, Doctrine
 
 ### Infraestrutura e DevOps
-- Docker (Redis, PostgreSQL, MySQL, Selenium Grid, Metabase)
-- Deploys automatizados com Forge, Cleavr e GitHub Actions (zero-downtime)
+- Docker (Redis, PostgreSQL, MySQL, Selenium Grid, Metabase, etc.)
+- Deploys automatizados e com zero-downtime via Forge, Cleavr e GitHub Actions (CD)
 - Provisionamento inicial com Ansible
 - Monitoramento com Sentry
 - Cloudflare (WAF, Pages, Tunnels)
@@ -31,6 +31,7 @@ Acredita em software simples, confiável e bem construído — com foco em quali
 ### Testes e Qualidade
 - Pest (PHP), RestAssured (Java), Cypress e Playwright (JavaScript)
 - Postman para validações e inspeção de APIs
+- Integração contínua com GitHub Actions (CI)
 
 ### Stacks Secundárias
 - Python (FastAPI, automação e scripts de suporte)
@@ -60,10 +61,17 @@ Aplicativo web e mobile para gestão de clientes, talhões, safras e registros d
 
 O projeto permanece online como demonstração funcional.
 
+🔗 [grgro.com.br](https://gragro.com.br)  
 🔗 [Documentação completa no GitHub](https://github.com/gerciljunio/gragro-documentation)
 
 ### Outros projetos:
-- [Boilerplate](https://github.com/gerciljunio/pest-boilerplate-api-test) de automação de testes e APIs externas em PHP e Pest.
+- Boilerplate de automação de testes e APIs externas em PHP e Pest.   
+[gerciljunio/pest-boilerplate-api-test](https://github.com/gerciljunio/pest-boilerplate-api-test)
+
+- Libs em JavaScript utilizadas nas blockchains Cardano, Ethereum e outras. Ambas foram descontinuadas, pois não trabalho mais com blockchains.   
+ **[cardano-decodes-wallet-api](https://github.com/gerciljunio/cardano-decodes-wallet-api)**   
+ **[multichain-utils](https://github.com/gerciljunio/multichain-utils)**
+
 - Ambientes de teste e integração com Cypress, Playwright e RestAssured.
 
 ## Contato
