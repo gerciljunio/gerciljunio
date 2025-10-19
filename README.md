@@ -7,9 +7,9 @@ Comecei a programar aos 13 anos com **Object Pascal (Delphi)** e, aos 15, desenv
 ## ⚙️ O que eu faço atualmente
 
 - **API/Backend Development:** PHP (Laravel Octane (Swoole e FrankenPHP), Hyperf), Laravel Filament (painéis administrativos completos, sem necessidade de frontend dedicado.)  
-- **Microserviços simples:** Python (FastAPI), JavaScript (Fastify) e PHP (Slim)  
-- **Automação de testes:** Pest (APIs/Strucute/PHP), Cypress (Interface/Javascript), Playwright (Interface/Javascript) e RestAssured (APIs/Java)  
-- **Infraestrutura e Deploy:** Docker, Forge (com zero-downtime deploy), Cleavr, Caddy, CI/CD (Github Actions), AWS S3/SES, Cloudflare (WAF, Pages, Tunnels)   
+- **Microserviços:** Python (FastAPI), JavaScript (Fastify) e PHP (Slim) para soluções leves   
+- **Automação de Testes:** Pest (PHP), Cypress e Playwright (JavaScript) e RestAssured (Java) — cobrindo APIs e interfaces com pipelines automatizados   
+- **Infraestrutura e Deploy:** Docker, Caddy, GitHub Actions (CI/CD), Forge, Cleavr, Cloudflare (WAF, Pages, Tunnels), AWS S3/SES e Sentry — com deploys zero-downtime e monitoramento contínuo.
 - **Bancos de Dados:** MySQL, PostgreSQL, Redis   
 
 Trabalho com **execução assíncrona, corrotinas e arquiteturas concorrentes**, buscando sempre performance, estabilidade e clareza no código.
