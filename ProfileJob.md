@@ -60,7 +60,7 @@ Aplicativo web e mobile para gestão de clientes, talhões, safras e registros d
 
 O projeto permanece online como demonstração funcional.
 
-[🔗 Documentação completa no GitHub](https://github.com/gerciljunio/gragro-documentation)
+🔗 [Documentação completa no GitHub](https://github.com/gerciljunio/gragro-documentation)
 
 ### Outros projetos:
 - [Boilerplate](https://github.com/gerciljunio/pest-boilerplate-api-test) de automação de testes e APIs externas em PHP e Pest.
