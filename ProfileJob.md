@@ -13,6 +13,24 @@ Também utiliza Python e JavaScript em automações, testes e integrações quan
 
 Acredita em software simples, confiável e bem construído — com foco em qualidade, eficiência e manutenção a longo prazo.
 
+## Experiência Profissional
+
+### Desenvolvedor Backend — Autônomo _(2003 — Atual)_
+- Desenvolvimento de sistemas backend com Laravel, Hyperf e Slim.
+- Criação de APIs REST escaláveis, de alta performance e microserviços.
+- Automação de testes com Pest, Cypress e RestAssured.
+- Deploys automatizados com Forge, Cleavr e GitHub Actions.
+- Estruturação de ambientes Docker e monitoramento com Sentry.
+- Desenvolvimento do projeto GR.Agro, plataforma SaaS para o setor agrícola.
+  
+### Desenvolvedor Web — Prefeitura Municipal de Uberlândia _(out 2009 — dez 2012 · 3 anos 3 meses)_
+- Desenvolvimento do site institucional e de um sistema de clipping para a Secretaria de Comunicação.
+- Responsável por implementação, manutenção e suporte técnico durante o período.
+
+### Desenvolvedor Object Pascal (Delphi) — Autônomo _(2001 — 2003 · 2 anos)_
+- Desenvolvimento de um sistema de controle de vacas leiteiras para a fazenda onde residia.
+- Primeiro software profissional desenvolvido de forma independente.
+
 ## Principais Competências Técnicas
 
 ### Stack Principal (PHP)
@@ -39,24 +57,6 @@ Acredita em software simples, confiável e bem construído — com foco em quali
 - Python (FastAPI, automação e scripts de suporte)
 - JavaScript (Node.js, Vue.js, Nuxt, Vuetify)
 
-## Experiência Profissional
-
-### Desenvolvedor Backend — Autônomo _(2003 — Atual)_
-- Desenvolvimento de sistemas backend com Laravel, Hyperf e Slim.
-- Criação de APIs REST escaláveis, de alta performance e microserviços.
-- Automação de testes com Pest, Cypress e RestAssured.
-- Deploys automatizados com Forge, Cleavr e GitHub Actions.
-- Estruturação de ambientes Docker e monitoramento com Sentry.
-- Desenvolvimento do projeto GR.Agro, plataforma SaaS para o setor agrícola.
-  
-### Desenvolvedor Web — Prefeitura Municipal de Uberlândia _(out 2009 — dez 2012 · 3 anos 3 meses)_
-- Desenvolvimento do site institucional e de um sistema de clipping para a Secretaria de Comunicação.
-- Responsável por implementação, manutenção e suporte técnico durante o período.
-
-### Desenvolvedor Object Pascal (Delphi) — Autônomo _(2001 — 2003 · 2 anos)_
-- Desenvolvimento de um sistema de controle de vacas leiteiras para a fazenda onde residia.
-- Primeiro software profissional desenvolvido de forma independente.
-
 ## Projetos Pessoais e Open Source
 ### GR.Agro — Plataforma SaaS para agrônomos
 Aplicativo web e mobile para gestão de clientes, talhões, safras e registros de campo. Responsável por toda a arquitetura e desenvolvimento Fullstack, com backend em Laravel Octane (Swoole) e automações em Python integradas ao ChatGPT e Azure AI Speech.
@@ -64,6 +64,11 @@ Aplicativo web e mobile para gestão de clientes, talhões, safras e registros d
 O projeto permanece online como demonstração funcional.
 
 [grgro.com.br](https://gragro.com.br) • [Documentação completa no GitHub](https://github.com/gerciljunio/gragro-documentation)
+
+### ToAberto — Aplicativo de Delivery
+Aplicativo de delivery desenvolvido e comercializado entre 2017 e 2019 em cidades do interior de Goiás e Minas Gerais. Atuei de forma independente no desenvolvimento Fullstack, responsável por toda a arquitetura, frontend, backend e infraestrutura.   
+
+O sistema contava com apps mobile, plataforma web e painel desktop para lojistas, além de recursos como programas de fidelidade e timeline interativa. Embora o projeto tenha sido descontinuado, ele representou uma etapa importante da minha trajetória técnica e empreendedora.
 
 ### Outros projetos:
 - Boilerplate de automação de testes e APIs externas em PHP e Pest.   
@@ -74,8 +79,3 @@ O projeto permanece online como demonstração funcional.
  [multichain-utils](https://github.com/gerciljunio/multichain-utils)
 
 - Ambientes de teste e integração com Cypress, Playwright e RestAssured.
-
-## Contato
-[gerciljunio@gmail.com](mailto:gerciljunio@gmail.com)   
-[github.com/gerciljunio](https://github.com/gerciljunio)   
-[linkedin.com/in/gercil](https://linkedin.com/in/gercil)
