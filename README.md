@@ -21,15 +21,21 @@ A maior parte do que eu desenvolvo está em **repositórios privados**, por isso
 
 Os repositórios públicos que você encontra aqui servem como **demonstrações técnicas**, **boilerplates** e **provas de conceito** para diferentes stacks backend e automações de teste.
 
-## 🚀 Projetos Reais
+## 🚀 Projetos
 
 - **GR.Agro** – Plataforma completa para agrônomos, com APIs, automações e relatórios climáticos  
 [gragro.com.br](https://gragro.com.br)   
 [gerciljunio/gragro-documentation](https://github.com/gerciljunio/gragro-documentation)
 
-- **Boilerplate** –  de automação de testes e APIs externas em PHP e Pest.   
+- Boilerplate –  de automação de testes e APIs externas em PHP e Pest.   
 [gerciljunio/pest-boilerplate-api-test](https://github.com/gerciljunio/pest-boilerplate-api-test)
 
-- **[cardano-decodes-wallet-api](https://github.com/gerciljunio/cardano-decodes-wallet-api)** e **[multichain-utils](https://github.com/gerciljunio/multichain-utils)** - Libs em JavaScript utilizadas nas blockchains Cardano, Ethereum e outras. Ambas foram descontinuadas, pois não trabalho mais com blockchains.
+- Boilerplate para desenvolvimento de API simples com Slim e FrankenPHP no modo “classic” e no modo “worker”.   
+[slim-frankenphp-worker-mode](https://github.com/gerciljunio/slim-frankenphp-worker-mode)   
+[slim-frankenphp-classic-mode](https://github.com/gerciljunio/slim-frankenphp-classic-mode)
+
+- Libs em JavaScript utilizadas nas blockchains Cardano e outras. Foram descontinuadas, não trabalha mais com blockchains.   
+[cardano-decodes-wallet-api](https://github.com/gerciljunio/cardano-decodes-wallet-api)   
+[multichain-utils](https://github.com/gerciljunio/multichain-utils)
 
 *(existem outros, mas são privados por razões contratuais e estratégicas)*
