@@ -1,18 +1,10 @@
 # 👋 
 
-Sou **desenvolvedor backend** com mais de **20 anos de experiência** em tecnologia, especializado em **APIs de alta performance, automação e arquitetura de sistemas**.
+Desenvolvedor backend com mais de 20 anos de experiência em PHP. Atua no desenvolvimento de APIs e microsserviços, usando Laravel, Octane (Swoole/FrankenPHP), Hyperf e Hypervel, com execução persistente, concorrente e assíncrona para entregar soluções rápidas, escaláveis e estáveis. Também possui experiência com Slim Framework e Filament.   
+
+Atua com infraestrutura para serviços simples, deploys rápidos e soluções estáveis. Utiliza Python e JavaScript como tecnologias auxiliares em cenários que exigem automação, extração de dados e integração. Quando o contexto envolve inteligência artificial, adota Python como principal linguagem de apoio.
 
 Comecei a programar aos 13 anos com **Object Pascal (Delphi)** e, aos 15, desenvolvi meu primeiro sistema para controle de gado leiteiro em uma fazenda.
-
-## ⚙️ O que eu faço atualmente
-
-- **API/Backend Development:** PHP (Laravel Octane (Swoole e FrankenPHP), Hyperf), Laravel Filament (painéis administrativos completos, sem necessidade de frontend dedicado.)  
-- **Microserviços:** Python (FastAPI), JavaScript (Fastify) e PHP (Slim) para soluções leves   
-- **Automação de Testes:** Pest (PHP), Cypress e Playwright (JavaScript) e RestAssured (Java) — cobrindo APIs e interfaces com pipelines automatizados   
-- **Infraestrutura e Deploy:** Docker, Caddy, GitHub Actions (CI/CD), Forge, Cleavr, Cloudflare (WAF, Pages, Tunnels), AWS S3/SES e Sentry — com deploys zero-downtime e monitoramento contínuo.
-- **Bancos de Dados:** MySQL, PostgreSQL, Redis   
-
-Trabalho com **execução assíncrona, corrotinas e arquiteturas concorrentes**, buscando sempre performance, estabilidade e clareza no código.
 
 ## 📊 Atividade no GitHub
 
