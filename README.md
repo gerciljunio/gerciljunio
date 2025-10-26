@@ -1,5 +1,6 @@
 # 👋 
 
+
 Desenvolvedor backend com mais de 20 anos de experiência em PHP. Atua no desenvolvimento de APIs e microsserviços, usando Laravel, Octane (Swoole/FrankenPHP), Hyperf e Hypervel, com execução persistente, concorrente e assíncrona para entregar soluções rápidas, escaláveis e estáveis. Também possui experiência com Slim Framework e Filament.   
 
 Atua com infraestrutura para serviços simples, deploys rápidos e soluções estáveis. Utiliza Python e JavaScript como tecnologias auxiliares em cenários que exigem automação, extração de dados e integração. Quando o contexto envolve inteligência artificial, adota Python como principal linguagem de apoio.
